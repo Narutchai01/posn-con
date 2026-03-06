@@ -1,4 +1,4 @@
-name: "con_test"
+name: "posn_con"
 description: "Contest to test CMS"
 tasks:
   - "batch"
