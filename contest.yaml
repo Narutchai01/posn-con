@@ -1,20 +1,20 @@
 name: "posn_con"
 description: "Contest to test CMS"
 tasks:
-  - "batch"
-  - "batch_file"
-  - "batch_comparator"
-  - "batchgrader"
-  - "communication"
-  - "communicationtwoways"
-  - "outputonly"
-  - "outputonlycomparator"
-  - "batchwithoutgen"
+  - "posn_batch"
+  - "posn_batch_file"
+  - "posn_batch_comparator"
+  - "posn_batchgrader"
+  - "posn_communication"
+  - "posn_communicationtwoways"
+  - "posn_outputonly"
+  - "posn_outputonlycomparator"
+  - "posn_batchwithoutgen"
 users:
-  - username: "u1"
-    password: "p1"
+  - username: "u5"
+    password: "p5"
     ip: null
-  - username: "u2"
-    password: "p2"
+  - username: "u5"
+    password: "p5"
     ip: null
 token_mode: infinite
