@@ -1,4 +1,4 @@
-name: "outputonly"
+name: "posn_outputonly"
 title: "Output only"
 n_input: 10
 public_testcases: 0, 1, 2, 3, 4

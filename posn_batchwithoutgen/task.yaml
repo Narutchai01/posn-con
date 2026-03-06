@@ -1,4 +1,4 @@
-name: "batchwithoutgen"
+name: "posn_batchwithoutgen"
 title: "Batch without GEN"
 time_limit: 1
 memory_limit: 256

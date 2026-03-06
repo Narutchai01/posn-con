@@ -1,4 +1,4 @@
-name: "batch_file"
+name: "posn_batch_file"
 title: "Batch with file IO"
 time_limit: 1
 memory_limit: 256

@@ -1,4 +1,4 @@
-name: "outputonlycomparator"
+name: "posn_outputonlycomparator"
 title: "Output only with comparator"
 n_input: 10
 public_testcases: 0, 1, 2, 3, 4

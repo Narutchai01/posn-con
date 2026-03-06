@@ -1,4 +1,4 @@
-name: "batch"
+name: "posn_batch"
 title: "Batch"
 time_limit: 1
 memory_limit: 256
