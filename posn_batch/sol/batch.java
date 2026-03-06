@@ -7,6 +7,5 @@ public class batch {
         a = in.nextInt();
         b = in.nextInt();
         System.out.println(a + b);
-   }
+    }
 }
-
